@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>World Cup Player Values</title>
+  <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="\PapaParse-4.5.0\PapaParse-4.5.0\papaparse.js" type="text/javascript"></script>
+  <script src="https://requirejs.org/docs/release/2.3.5/minified/require.js" type="text/javascript"></script>
+  <link href="https://fonts.googleapis.com/css?family=Abel|Roboto:500" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rajdhani:700" rel="stylesheet">
+  <script src="prep.js" type="text/javascript"></script>
+  <style type="text/css">
+    .g_main {
+      cursor: pointer;
+      pointer-events: all;
+    }
+  </style>
+</head>
+
+<body>
+  <script type="text/javascript">
+    //console.log(d3test);
+
+    dataset = dat['children']
+
+    dataset.forEach(function(d) {
+      if (['South Korea', 'Costa Rica', 'Saudi Arabia'].indexOf(d.Country) > -1) {
+        console.log('1')
+        d.Country = d.Country.replace(' ', '_')
+      }
+    })
+
+    var clicked = 0;
+    var diameter = 300;
+    var color = d3.scaleOrdinal(d3.schemeCategory20);
+    var bubble = d3.pack(dataset)
+      .size([diameter, diameter])
+      .padding(1.5);
+    var svg_height = 1200
+    var svg_width = 1250
+
+
+    // Factor by which bars are compressed horiziontally 
+    var compress = Math.pow(10, 6.05)
+    var uniq_countries = d3.map(dataset, function(d) {
+      return d.Country;
+    }).keys()
+    var scale = [...Array(uniq_countries.length).keys()];
+    var country_scale = d3.scaleOrdinal()
+      .domain(uniq_countries)
+      .range(scale)
+
+    // Color scale for positions        
+    var uniq_pos = d3.map(dataset, function(d) {
+      return d.Position;
+    }).keys()
+    var position_scale = d3.scaleOrdinal()
+      .domain(uniq_pos)
+      .range(['#5d8198', '#8badaa', '#cecbb4', '#ea8e71'])
+    var pos_scale = d3.scaleOrdinal()
+      .domain(uniq_pos)
+      .range(['#aec0cb', '#c5d6d4', '#e6e5d9', '#f4c6b8'])
+
+
+    // Background
+    var svg = d3.select("body")
+      .append("svg")
+      .attr("width", svg_width)
+      .attr("height", svg_height)
+      .attr("class", "rect")
+      .attr('fill', 'grey');
+
+    // Background color
+    svg.append('g')
+      .selectAll('rect')
+      .data([1])
+      .enter()
+      .append('rect')
+      .attr('x', 0)
+      .attr('y', 0)
+      .attr('width', svg_width)
+      .attr('height', svg_height)
+      .attr('fill', '#F4F6F7')
+    
+	 // Graph Title
+    var title = ['How Much Are World Cup Teams Worth?',
+      'Data from TransferMarkt',
+      'Values in US Dollars',
+      '@FootyNumbers']
+    
+    svg.append('g')
+      .selectAll('text')
+      .data(title)
+      .enter()
+      .append('text')
+      .attr('x', svg_width * .745)
+      .attr('y', function(d, i) {
+        return svg_height * .865 + i * 45})
+      .text(function(d) {return d})
+      .attr('font-size', 35)
+      .attr('font-family', 'Abel')
+      .attr('text-anchor', 'end')
+      .attr('opacity', .4)
+      .attr('fill', 'black')
+      .attr('pointer-events', 'all')
+    
+    // Hover and Click
+    svg.append('g')
+      .selectAll('text')
+      .data(['Hover/Click', 'to view relative', 'player values'])
+      .enter()
+      .append('text')
+      .attr('x', 110)
+      .attr('y', function(d, i) {
+        return svg_height * .93 + i * 30})
+      .attr('fill', 'black')
+      .text(function(d){return d})
+      .attr('font-size', 25)
+      .attr('text-anchor', 'middle')
+      .attr('font-family', 'Abel')
+      .attr('fill', 'light grey')
+
+    // Total Value Of All Players
+    total_val = 0
+    dataset.forEach(function(d){total_val += d.Value})
+
+    imgs = svg.selectAll("image").data([0]);
+    imgs.enter()
+      .append("svg:image")
+      .attr('href', 'https://upload.wikimedia.org/wikipedia/commons/d/d1/Arrow_up.svg')
+      .attr('x', svg_width * .08)
+      .attr('y', svg_width * .805)
+      .attr('width', 25)
+      .attr('opacity', .15)
+    
+    /*
+    svg.append('g')
+      .selectAll('text')
+      .data([1])
+      .enter()
+      .append('text')
+      .attr('x', svg_width * .15)
+      .attr('y', function(d, i) {
+        return svg_height * .985
+      })
+      .text(String(Math.round(total_val / Math.pow(10, 9))) + 'B')
+      .attr('font-size', 190)
+      .attr('font-family', 'Abel')
+      .attr('text-anchor', 'middle')
+      .attr('opacity', .4)
+      .attr('fill', 'grey')
+    */
+
+    var reset = 0
+
+    svg.append('g')
+      .selectAll('rect')
+      .data(dataset)
+      .enter()
+      .append('rect')
+      .attr('x', svg_width * .76)
+      .attr('y', function(d, i) {
+        if (i != 0) {
+          if (d.Country != dataset[i - 1].Country) {
+            reset = i
+          }
+        }
+        return (i - reset) * 40 + svg_height * .2275
+      })
+      .attr('width', 300)
+      .attr('height', 34)
+      .attr('fill', '#ececed')
+      .attr('opacity', 1)
+    
+    // SIDE BAR CONTENT ------------------------------------------------------
+    function addSideBar(country) {
+      // Interactive Side Bar
+
+      dset = dataset.filter(d => d.Country == country)
+
+      // Sidebar Price Bars
+      reset = 0
+      svg.append('g')
+        .selectAll('rect')
+        .data(dset)
+        .enter()
+        .append('rect')
+        .attr('x', svg_width * .76)
+        .attr('y', function(d, i) {
+          if (i != 0) {
+            if (d.Country != dset[i - 1].Country) {
+              reset = i
+            }
+          }
+          return (i - reset) * 40 + svg_height * .2275
+        })
+        .attr('width', function(d) {
+          var max_val = 0
+          dset.filter(j => j.Country == d.Country)
+            .forEach(function(q) {
+              if (q.Value >= max_val) {max_val = q.Value}
+            })
+          return 250 * d.Value / max_val
+        })
+        .attr('height', 34)
+        .attr('fill', function(d) {return pos_scale(d.Position)})
+        .attr('opacity', 1)
+        .attr('class', function(d, i) {
+          return d.Country + '_sidebar sidebar ' +
+            d.Country + '_' + String(d.Num)
+        })
+
+
+      // Sidebar Text
+      reset = 0
+      var sidebar_vshift = -23
+      var sidebar_hshift = 10
+      svg.append('g')
+        .selectAll('text')
+        .data(dset)
+        .enter()
+        .append('text')
+        .attr('x', svg_width * .76 + sidebar_hshift)
+        .attr('y', function(d, i) {
+          if (i != 0) {
+            if (d.Country != dset[i - 1].Country) {
+              reset = i
+            }
+          }
+          return (i - reset) * 40 + svg_height * .2675 + sidebar_vshift
+        })
+        .attr('fill', 'black')
+        .attr('class', function(d, i) {return d.Country + '_sidebar sidebar'})
+        .text(function(d) {return d.Player.replace(' .','')})
+        .attr('font-size', 20)
+        .attr('font-family', 'Abel')
+        .attr('opacity', 1)
+
+
+      // Sidebar Prices
+      reset = 0
+      svg.append('g')
+        .selectAll('text')
+        .data(dset.filter(d => d.Country == country))
+        .enter()
+        .append('text')
+        .attr('x', svg_width * .76 + sidebar_hshift + 275)
+        .attr('y', function(d, i) {
+          if (i != 0) {
+            if (d.Country != dset[i - 1].Country) {
+              reset = i
+            }
+          }
+          return (i - reset) * 40 + svg_height * .2675 + sidebar_vshift
+        })
+        .attr('fill', 'black')
+        .attr('class', function(d, i) {return d.Country + '_sidebar sidebar'})
+        .text(function(d) {
+          if (d.Value < 1000000) {
+            return String(Math.round(parseFloat(d.Value) / Math.pow(10, 3), 3)) + ' Th'
+          } else {
+            return String(Math.round(parseFloat(d.Value) / Math.pow(10, 4), 3) / 100) + 'M'
+          }
+        })
+        .attr('font-size', 17)
+        .attr('font-family', 'Abel')
+        .attr('text-anchor', 'end')
+        .attr('opacity', 1)
+
+    }
+    // ------------------------------------------------------
+
+    // World Cup Trophy SVG        
+    svg.selectAll("image").data([0]);
+    imgs.enter()
+      .append("svg:image")
+      .attr('href', 'https://png.icons8.com/metro/1600/world-cup.png')
+      .attr('x', svg_width * .47)
+      .attr('y', svg_width * .880)
+      .attr('width', 80)
+      .attr('opacity', .15)
+
+
+    /*
+    svg.append('g')
+    	 .selectAll('rect')
+    	 .data([1])
+    	 .enter()
+    	 .append('rect')
+    	 .attr('x',svg_width*.87)
+    	 .attr('y',svg_height*.08)
+    	 .attr('width',160)
+    	 .attr('height',171)
+    	 .attr('opacity',.10)
+    */
+
+
+    // Position Key
+    svg.append('g')
+      .selectAll('text')
+      .data(['Forward', 'Midfielder', 'Defender', 'Keeper'])
+      .enter()
+      .append('text')
+      .text(function(d) {return d})
+      .attr('x', svg_width * .99)
+      .attr('y', function(d, i) {return svg_height * .11 + i * 40})
+      .attr('font-size', 35)
+      .attr('font-family', 'Abel')
+      .attr('fill', function(d) {return position_scale(d)})
+      .attr('opacity', 1)
+      .attr('text-anchor', 'end')
+
+
+    // Placeholder to zero shift relative to first bar
+    var place = 0
+    var left_shift = 180
+    var top_shift = 40
+
+    svg.append('g')
+      .selectAll('rect')
+      .data(dataset)
+      .enter()
+      .append('rect')
+      .attr('x', function(d, i) {
+        if (i == 0 || dataset[i - 1].Country != dataset[i].Country) {
+          place = i
+          return left_shift
+        } else {
+          return ((left_shift + dataset[i - 1].x_level / compress) + 1 * (i - place))
+        }
+      })
+      .attr('y', function(d) {
+        return country_scale(d.Country) * 30 +
+          top_shift
+      })
+      .attr('width', function(d) {
+        return d.Value / compress
+      })
+      .attr('height', function(d) {
+        return 17.5
+      })
+      .attr('fill', function(d) {
+        return position_scale(d.Position)
+      })
+      .on('mouseover', function(d) {
+        d3.select(this).attr('fill', 'yellow')
+        d3.select('.' + d.Country + '_' + String(d.Num)).attr('fill', 'yellow')
+      })
+      .on('mouseout', function(d) {
+        d3.select(this).attr('fill', position_scale(d.Position))
+        d3.select('.' + d.Country + '_' + String(d.Num))
+          .attr('fill', pos_scale(d.Position))
+      })
+
+
+    // Placing Country Names
+    var v_text_shift = 15
+    var h_text_shift = -45
+
+    // Country Text
+    svg.append('g')
+      .selectAll('text')
+      .data(uniq_countries)
+      .enter()
+      .append('text')
+      .attr('y', function(d) {
+        return country_scale(d) * 30 + v_text_shift + top_shift
+      })
+      .attr('x', h_text_shift + left_shift)
+      .text(function(d) {
+        if (['South_Korea', 'Costa_Rica', 'Saudi_Arabia'].indexOf(d) > -1) {
+          return d.replace('_', ' ').toUpperCase()
+        }
+        return d.toUpperCase()
+      })
+      .attr('font-size', 20)
+      .attr('font-family', 'Abel')
+      .attr('text-anchor', 'end')
+      .attr('fill', function(d) { // Should've used an ordinal scale
+        if (d == 'France') {
+          return '#e5c100'
+        }
+        if (d == 'Croatia') {
+          return '#a7a7a7'
+        }
+        if (d == 'Belgium') {
+          return '#CD7F33'
+        } else {
+          return 'black'
+        }
+      })
+      .attr('class', 'titles')
+
+    .on('mouseover', function(d, i) {
+        d3.select(this)
+          .attr('fill', 'red')
+          .attr('font-family', 'Rajdhani')
+
+        // If nothing else is clicked 
+        if (clicked == 0) {
+          addSideBar(d)
+        }
+      })
+      .on('mouseout', function(d, i) {
+        // If nothing is clicked (really, if this is not active).. remove sidebar elements
+        if (clicked == 0) {
+
+          d3.select(this)
+            .attr('fill', function(d) {
+              if (d == 'France') {
+                return '#e5c100'
+              }
+              if (d == 'Croatia') {
+                return '#a7a7a7'
+              }
+              if (d == 'Belgium') {
+                return '#CD7F33'
+              } else {
+                return 'black'
+              }
+            })
+            .attr('font-family', 'Abel')
+
+          d3.selectAll('.sidebar').remove()
+
+        } else {
+          // If something is clicked and it's not this... 
+          // the sidebar didn't come up anyway, so just make country black
+
+
+          if (d3.select('.sidebar').attr('class').indexOf(d) < 0) {
+            d3.select(this)
+              .attr('fill', function(d) {
+                if (d == 'France') {
+                  return '#e5c100'
+                }
+                if (d == 'Croatia') {
+                  return '#a7a7a7'
+                }
+                if (d == 'Belgium') {
+                  return '#CD7F33'
+                } else {
+                  return 'black'
+                }
+              })
+              .attr('font-family', 'Abel')
+
+            d3.selectAll('.' + d + '_sidebar').remove()
+          }
+        }
+      })
+      .on('click', function(d, i) {
+        if (clicked == 1) {
+          // If something is clicked and it's this... then remove side bar
+          if (d3.select('.sidebar').attr('class').indexOf(d) >= 0) {
+            d3.select(this)
+              .attr('fill', function(d) {
+                if (d == 'France') {
+                  return '#e5c100'
+                }
+                if (d == 'Croatia') {
+                  return '#a7a7a7'
+                }
+                if (d == 'Belgium') {
+                  return '#CD7F33'
+                } else {
+                  return 'black'
+                }
+              })
+              .attr('font-family', 'Abel')
+
+            clicked = 0
+
+            d3.selectAll('.' + d + '_sidebar').remove()
+
+
+          } else {
+            // If something is clicked and it's not this.. 
+            // darken everything (because we don't know what's clicked)
+            // And make it's sidebar visible
+            d3.selectAll('.titles')
+              .attr('fill', function(d) {
+                if (d == 'France') {
+                  return '#e5c100'
+                }
+                if (d == 'Croatia') {
+                  return '#a7a7a7'
+                }
+                if (d == 'Belgium') {
+                  return '#CD7F33'
+                } else {
+                  return 'black'
+                }
+              })
+              .attr('font-family', 'Abel')
+
+            d3.select(this)
+              .attr('fill', 'red')
+              .attr('font-family', 'Rajdhani')
+
+            d3.selectAll('.sidebar').remove()
+
+            addSideBar(d)
+          }
+        } else {
+          // If nothing is clicked, make this sidebar visible
+          d3.select(this)
+            .attr('fill', 'red')
+            .attr('font-family', 'Rajdhani')
+          clicked = 1
+        }
+      })
+    
+    // Country Total Values
+    var value_shift = 90
+    svg.append('g')
+      .selectAll('text')
+      .data(uniq_countries.concat(uniq_countries))
+      .enter()
+      .append('text')
+      .attr('y', function(d) {
+        return country_scale(d) * 30 + v_text_shift + top_shift - 3
+      })
+      .attr('x', h_text_shift / 2 + left_shift)
+      .text(function(d) {
+        var total_val = 0
+        dataset.filter(k => k.Country == d).forEach(function(j) {
+          total_val += j.Value
+        })
+        if (total_val / Math.pow(10, 6) > 999) {
+          return String(Math.round(total_val / parseFloat(Math.pow(10, 8))) / 10, 2) + 'b'
+        } else {
+          return String(Math.round(total_val / Math.pow(10, 6), 2), 3) + 'm'
+        }
+      })
+      .attr('font-size', 12)
+      .attr('font-family', 'Abel')
+      .attr('text-anchor', 'middle')
+      .attr('fill', 'black')
+
+  </script>
+</body>
+
+</html>

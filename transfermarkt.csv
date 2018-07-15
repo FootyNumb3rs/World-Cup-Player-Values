@@ -1,0 +1,720 @@
+Num,Player,Pos,Age,Value,Country,Continent,Position,Order,x_level
+10,Kylian Mbappé,Right Wing,19,140400000.0,France,Europe,Forward,0,120000000.0
+7,Antoine Griezmann,Centre-Forward,27,117000000.0,France,Europe,Forward,0,220000000.0
+6,Paul Pogba,Central Midfield,25,105300000.0,France,Europe,Midfielder,0,310000000.0
+11,Ousmane Dembélé,Right Wing,21,93600000.0,France,Europe,Forward,0,390000000.0
+4,Raphaël Varane,Centre-Back,25,81900000.0,France,Europe,Defender,0,460000000.0
+8,Thomas Lemar,Left Wing,22,76050000.0,France,Europe,Forward,0,525000000.0
+5,Samuel Umtiti,Centre-Back,24,70200000.0,France,Europe,Defender,0,585000000.0
+13,N'Golo Kanté,Defensive Midfield,27,70200000.0,France,Europe,Midfielder,0,645000000.0
+18,Nabil Fekir,Attacking Midfield,24,70200000.0,France,Europe,Midfielder,0,705000000.0
+20,Florian Thauvin,Right Wing,25,58500000.0,France,Europe,Forward,0,755000000.0
+22,Benjamin Mendy,Left-Back,23,46800000.0,France,Europe,Defender,0,795000000.0
+12,Corentin Tolisso,Central Midfield,23,46800000.0,France,Europe,Midfielder,0,835000000.0
+21,Lucas Hernández,Left-Back,22,40950000.0,France,Europe,Defender,0,870000000.0
+2,Benjamin Pavard,Centre-Back,22,35100000.0,France,Europe,Defender,0,900000000.0
+3,Presnel Kimpembe,Centre-Back,22,35100000.0,France,Europe,Defender,0,930000000.0
+15,Steven Nzonzi,Defensive Midfield,29,35100000.0,France,Europe,Midfielder,0,960000000.0
+14,Blaise Matuidi,Central Midfield,31,35100000.0,France,Europe,Midfielder,0,990000000.0
+1,Hugo Lloris,Keeper,31,29250000.0,France,Europe,Keeper,0,1015000000.0
+19,Djibril Sidibé,Right-Back,25,26910000.0,France,Europe,Defender,0,1038000000.0
+9,Olivier Giroud,Centre-Forward,31,21060000.0,France,Europe,Forward,0,1056000000.0
+23,Alphonse Areola,Keeper,25,17550000.0,France,Europe,Keeper,0,1071000000.0
+17,Adil Rami,Centre-Back,32,8189999.999999999,France,Europe,Defender,0,1078000000.0
+16,Steve Mandanda,Keeper,33,2340000.0,France,Europe,Keeper,0,1080000000.0
+10,Neymar,Left Wing,26,210600000.0,Brazil,South America,Forward,1,180000000.0
+11,Philippe Coutinho,Attacking Midfield,26,117000000.0,Brazil,South America,Midfielder,1,280000000.0
+20,Roberto Firmino,Secondary Striker,26,93600000.0,Brazil,South America,Forward,1,360000000.0
+9,Gabriel Jesus,Centre-Forward,21,93600000.0,Brazil,South America,Forward,1,440000000.0
+1,Alisson,Keeper,25,70200000.0,Brazil,South America,Keeper,1,500000000.0
+12,Marcelo,Left-Back,30,70200000.0,Brazil,South America,Defender,1,560000000.0
+5,Casemiro,Defensive Midfield,26,70200000.0,Brazil,South America,Midfielder,1,620000000.0
+13,Marquinhos,Centre-Back,24,64349999.99999999,Brazil,South America,Defender,1,675000000.0
+7,Douglas Costa,Right Wing,27,64349999.99999999,Brazil,South America,Forward,1,730000000.0
+23,Ederson,Keeper,24,58500000.0,Brazil,South America,Keeper,1,780000000.0
+15,Paulinho,Central Midfield,29,46800000.0,Brazil,South America,Midfielder,1,820000000.0
+18,Fred,Central Midfield,25,37440000.0,Brazil,South America,Midfielder,1,852000000.0
+19,Willian,Right Wing,29,37440000.0,Brazil,South America,Forward,1,884000000.0
+14,Danilo,Right-Back,26,23400000.0,Brazil,South America,Defender,1,904000000.0
+17,Fernandinho,Defensive Midfield,33,17550000.0,Brazil,South America,Midfielder,1,919000000.0
+8,Renato Augusto,Central Midfield,30,12870000.0,Brazil,South America,Midfielder,1,930000000.0
+21,Taison,Left Wing,30,12870000.0,Brazil,South America,Forward,1,941000000.0
+2,Thiago Silva,Centre-Back,33,11700000.0,Brazil,South America,Defender,1,951000000.0
+3,Miranda,Centre-Back,33,9360000.0,Brazil,South America,Defender,1,959000000.0
+6,Filipe Luís,Left-Back,32,9360000.0,Brazil,South America,Defender,1,967000000.0
+4,Pedro Geromel,Centre-Back,32,5850000.0,Brazil,South America,Defender,1,972000000.0
+22,Fágner,Right-Back,29,5850000.0,Brazil,South America,Defender,1,977000000.0
+16,Cássio,Keeper,31,4680000.0,Brazil,South America,Keeper,1,981000000.0
+5,Sergio Busquets,Defensive Midfield,29,93600000.0,Spain,Europe,Midfielder,2,80000000.0
+22,Isco,Attacking Midfield,26,87750000.0,Spain,Europe,Midfielder,2,155000000.0
+20,Marco Asensio .,Left Wing,22,87750000.0,Spain,Europe,Forward,2,230000000.0
+1,David de Gea,Keeper,27,81900000.0,Spain,Europe,Keeper,2,300000000.0
+7,Saúl Ñíguez,Central Midfield,23,81900000.0,Spain,Europe,Midfielder,2,370000000.0
+8,Koke,Central Midfield,26,81900000.0,Spain,Europe,Midfielder,2,440000000.0
+18,Jordi Alba,Left-Back,29,70200000.0,Spain,Europe,Defender,2,500000000.0
+2,Daniel Carvajal,Right-Back,26,70200000.0,Spain,Europe,Defender,2,560000000.0
+10,Thiago,Central Midfield,27,70200000.0,Spain,Europe,Midfielder,2,620000000.0
+19,Diego Costa .,Centre-Forward,29,70200000.0,Spain,Europe,Forward,2,680000000.0
+15,Sergio Ramos,Centre-Back,32,52650000.0,Spain,Europe,Defender,2,725000000.0
+14,César Azpilicueta,Right-Back,28,46800000.0,Spain,Europe,Defender,2,765000000.0
+9,Rodrigo,Centre-Forward,27,46800000.0,Spain,Europe,Forward,2,805000000.0
+4,Nacho Fernández,Centre-Back,28,35100000.0,Spain,Europe,Defender,2,835000000.0
+21,David Silva,Attacking Midfield,32,35100000.0,Spain,Europe,Midfielder,2,865000000.0
+12,Álvaro Odriozola,Right-Back,22,29250000.0,Spain,Europe,Defender,2,890000000.0
+11,Lucas Vázquez,Right Wing,27,29250000.0,Spain,Europe,Forward,2,915000000.0
+17,Iago Aspas,Right Wing,30,29250000.0,Spain,Europe,Forward,2,940000000.0
+13,Kepa Arrizabalaga,Keeper,23,23400000.0,Spain,Europe,Keeper,2,960000000.0
+16,Nacho Monreal,Left-Back,32,15210000.0,Spain,Europe,Defender,2,973000000.0
+23,Pepe Reina,Keeper,35,1170000.0,Spain,Europe,Keeper,2,974000000.0
+8,Toni Kroos,Central Midfield,28,93600000.0,Germany,Europe,Midfielder,3,80000000.0
+22,Marc-André ter Stegen,Keeper,26,70200000.0,Germany,Europe,Keeper,3,140000000.0
+5,Mats Hummels,Centre-Back,29,70200000.0,Germany,Europe,Defender,3,200000000.0
+13,Thomas Müller .,Secondary Striker,28,70200000.0,Germany,Europe,Forward,3,260000000.0
+9,Timo Werner,Centre-Forward,22,70200000.0,Germany,Europe,Forward,3,320000000.0
+18,Joshua Kimmich,Right-Back,23,64349999.99999999,Germany,Europe,Defender,3,375000000.0
+10,Mesut Özil,Attacking Midfield,29,58500000.0,Germany,Europe,Midfielder,3,425000000.0
+17,Jérôme Boateng,Centre-Back,29,52650000.0,Germany,Europe,Defender,3,470000000.0
+16,Antonio Rüdiger,Centre-Back,25,46800000.0,Germany,Europe,Defender,3,510000000.0
+14,Leon Goretzka,Central Midfield,23,46800000.0,Germany,Europe,Midfielder,3,550000000.0
+21,Ilkay Gündogan,Central Midfield,27,46800000.0,Germany,Europe,Midfielder,3,590000000.0
+20,Julian Brandt,Left Wing,22,46800000.0,Germany,Europe,Forward,3,630000000.0
+15,Niklas Süle,Centre-Back,22,44460000.0,Germany,Europe,Defender,3,668000000.0
+1,Manuel Neuer,Keeper,32,40950000.0,Germany,Europe,Keeper,3,703000000.0
+7,Julian Draxler,Left Wing,24,40950000.0,Germany,Europe,Forward,3,738000000.0
+11,Marco Reus,Left Wing,29,40950000.0,Germany,Europe,Forward,3,773000000.0
+6,Sami Khedira,Central Midfield,31,30420000.0,Germany,Europe,Midfielder,3,799000000.0
+4,Matthias Ginter,Centre-Back,24,29250000.0,Germany,Europe,Defender,3,824000000.0
+2,Marvin Plattenhardt,Left-Back,26,17550000.0,Germany,Europe,Defender,3,839000000.0
+14,Jonas Hector,Left-Back,28,17550000.0,Germany,Europe,Defender,3,854000000.0
+19,Sebastian Rudy,Defensive Midfield,28,17550000.0,Germany,Europe,Midfielder,3,869000000.0
+12,Kevin Trapp,Keeper,28,9360000.0,Germany,Europe,Keeper,3,877000000.0
+23,Mario Gómez,Centre-Forward,32,7020000.0,Germany,Europe,Forward,3,883000000.0
+9,Harry Kane,Centre-Forward,24,175500000.0,England,Europe,Forward,4,150000000.0
+20,Dele Alli,Attacking Midfield,22,117000000.0,England,Europe,Midfielder,4,250000000.0
+10,Raheem Sterling,Right Wing,23,105300000.0,England,Europe,Forward,4,340000000.0
+19,Marcus Rashford,Centre-Forward,20,76050000.0,England,Europe,Forward,4,405000000.0
+5,John Stones,Centre-Back,24,58500000.0,England,Europe,Defender,4,455000000.0
+2,Kyle Walker,Right-Back,28,58500000.0,England,Europe,Defender,4,505000000.0
+4,Eric Dier,Defensive Midfield,24,46800000.0,England,Europe,Midfielder,4,545000000.0
+7,Jesse Lingard,Left Wing,25,40950000.0,England,Europe,Forward,4,580000000.0
+1,Jordan Pickford,Keeper,24,35100000.0,England,Europe,Keeper,4,610000000.0
+3,Danny Rose,Left-Back,28,35100000.0,England,Europe,Defender,4,640000000.0
+6,Harry Maguire,Centre-Back,25,29250000.0,England,Europe,Defender,4,665000000.0
+22,Trent Alexander-Arnold,Right-Back,19,29250000.0,England,Europe,Defender,4,690000000.0
+8,Jordan Henderson,Central Midfield,28,29250000.0,England,Europe,Midfielder,4,715000000.0
+13,Jack Butland,Keeper,25,25740000.0,England,Europe,Keeper,4,737000000.0
+16,Phil Jones,Centre-Back,26,23400000.0,England,Europe,Defender,4,757000000.0
+12,Kieran Trippier,Right-Back,27,23400000.0,England,Europe,Defender,4,777000000.0
+11,Jamie Vardy,Centre-Forward,31,23400000.0,England,Europe,Forward,4,797000000.0
+15,Gary Cahill,Centre-Back,32,17550000.0,England,Europe,Defender,4,812000000.0
+17,Fabian Delph,Central Midfield,28,17550000.0,England,Europe,Midfielder,4,827000000.0
+21,Ruben Loftus-Cheek,Central Midfield,22,17550000.0,England,Europe,Midfielder,4,842000000.0
+14,Danny Welbeck,Centre-Forward,27,17550000.0,England,Europe,Forward,4,857000000.0
+23,Nick Pope,Keeper,26,11700000.0,England,Europe,Keeper,4,867000000.0
+18,Ashley Young,Left Midfield,32,8189999.999999999,England,Europe,Midfielder,4,874000000.0
+7,Kevin De Bruyne,Attacking Midfield,27,175500000.0,Belgium,Europe,Midfielder,5,150000000.0
+10,Eden Hazard,Left Wing,27,128699999.99999999,Belgium,Europe,Forward,5,260000000.0
+9,Romelu Lukaku,Centre-Forward,25,105300000.0,Belgium,Europe,Forward,5,350000000.0
+1,Thibaut Courtois,Keeper,26,70200000.0,Belgium,Europe,Keeper,5,410000000.0
+2,Toby Alderweireld,Centre-Back,29,46800000.0,Belgium,Europe,Defender,5,450000000.0
+21,Michy Batshuayi,Centre-Forward,24,46800000.0,Belgium,Europe,Forward,5,490000000.0
+5,Jan Vertonghen,Centre-Back,31,37440000.0,Belgium,Europe,Defender,5,522000000.0
+14,Dries Mertens,Centre-Forward,31,35100000.0,Belgium,Europe,Forward,5,552000000.0
+11,Yannick Carrasco,Left Wing,24,29250000.0,Belgium,Europe,Forward,5,577000000.0
+18,Thorgan Hazard,Left Wing,25,25740000.0,Belgium,Europe,Forward,5,599000000.0
+8,Youri Tielemans,Central Midfield,21,23400000.0,Belgium,Europe,Midfielder,5,619000000.0
+6,Axel Witsel,Central Midfield,29,21060000.0,Belgium,Europe,Midfielder,5,637000000.0
+19,Mousa Dembélé,Central Midfield,30,21060000.0,Belgium,Europe,Midfielder,5,655000000.0
+23,Leander Dendoncker,Defensive Midfield,23,19890000.0,Belgium,Europe,Midfielder,5,672000000.0
+15,Thomas Meunier,Right-Back,26,17550000.0,Belgium,Europe,Defender,5,687000000.0
+8,Marouane Fellaini,Central Midfield,30,14040000.0,Belgium,Europe,Midfielder,5,699000000.0
+20,Adnan Januzaj,Right Wing,23,14040000.0,Belgium,Europe,Forward,5,711000000.0
+12,Simon Mignolet,Keeper,30,11700000.0,Belgium,Europe,Keeper,5,721000000.0
+4,Vincent Kompany,Centre-Back,32,11700000.0,Belgium,Europe,Defender,5,731000000.0
+22,Nacer Chadli,Left Wing,28,11700000.0,Belgium,Europe,Forward,5,741000000.0
+13,Koen Casteels,Keeper,26,7020000.0,Belgium,Europe,Keeper,5,747000000.0
+3,Thomas Vermaelen,Centre-Back,32,5850000.0,Belgium,Europe,Defender,5,752000000.0
+17,Dedryck Boyata,Centre-Back,27,2340000.0,Belgium,Europe,Defender,5,754000000.0
+10,Lionel Messi,Right Wing,31,210600000.0,Argentina,South America,Forward,6,180000000.0
+21,Paulo Dybala,Secondary Striker,24,128699999.99999999,Argentina,South America,Forward,6,290000000.0
+19,Sergio Agüero,Centre-Forward,30,93600000.0,Argentina,South America,Forward,6,370000000.0
+9,Gonzalo Higuaín,Centre-Forward,30,70200000.0,Argentina,South America,Forward,6,430000000.0
+11,Ángel Di María,Right Wing,30,46800000.0,Argentina,South America,Forward,6,470000000.0
+17,Nicolás Otamendi,Centre-Back,30,40950000.0,Argentina,South America,Defender,6,505000000.0
+20,Giovani Lo Celso,Central Midfield,22,35100000.0,Argentina,South America,Midfielder,6,535000000.0
+18,Eduardo Salvio,Right Wing,27,25740000.0,Argentina,South America,Forward,6,557000000.0
+22,Cristian Pavón,Right Wing,22,23400000.0,Argentina,South America,Forward,6,577000000.0
+16,Marcos Rojo,Centre-Back,28,21060000.0,Argentina,South America,Defender,6,595000000.0
+8,Marcos Acuña,Left Midfield,26,17550000.0,Argentina,South America,Midfielder,6,610000000.0
+6,Federico Fazio,Centre-Back,31,15210000.0,Argentina,South America,Defender,6,623000000.0
+3,Nicolás Tagliafico,Left-Back,25,14040000.0,Argentina,South America,Defender,6,635000000.0
+7,Éver Banega,Central Midfield,30,14040000.0,Argentina,South America,Midfielder,6,647000000.0
+13,Maximiliano Meza,Attacking Midfield,26,14040000.0,Argentina,South America,Midfielder,6,659000000.0
+4,Cristian Ansaldi,Left-Back,31,5850000.0,Argentina,South America,Defender,6,664000000.0
+2,Gabriel Mercado,Right-Back,31,5850000.0,Argentina,South America,Defender,6,669000000.0
+12,Franco Armani,Keeper,31,3510000.0,Argentina,South America,Keeper,6,672000000.0
+1,Nahuel Guzmán,Keeper,32,3510000.0,Argentina,South America,Keeper,6,675000000.0
+15,Enzo Pérez,Central Midfield,32,2340000.0,Argentina,South America,Midfielder,6,677000000.0
+23,Willy Caballero,Keeper,36,1170000.0,Argentina,South America,Keeper,6,678000000.0
+7,Cristiano Ronaldo,Centre-Forward,33,117000000.0,Portugal,Europe,Forward,7,100000000.0
+11,Bernardo Silva,Right Wing,23,58500000.0,Portugal,Europe,Forward,7,150000000.0
+17,Gonçalo Guedes,Left Wing,21,46800000.0,Portugal,Europe,Forward,7,190000000.0
+18,Gelson Martins,Right Wing,23,40950000.0,Portugal,Europe,Forward,7,225000000.0
+16,Bruno Fernandes,Attacking Midfield,23,35100000.0,Portugal,Europe,Midfielder,7,255000000.0
+14,William Carvalho,Defensive Midfield,26,29250000.0,Portugal,Europe,Midfielder,7,280000000.0
+10,João Mário,Attacking Midfield,25,29250000.0,Portugal,Europe,Midfielder,7,305000000.0
+13,Rúben Dias,Centre-Back,21,25740000.0,Portugal,Europe,Defender,7,327000000.0
+9,André Silva,Centre-Forward,22,25740000.0,Portugal,Europe,Forward,7,349000000.0
+12,Anthony Lopes,Keeper,27,23400000.0,Portugal,Europe,Keeper,7,369000000.0
+15,Ricardo Pereira,Right-Back,24,23400000.0,Portugal,Europe,Defender,7,389000000.0
+23,Adrien Silva,Central Midfield,29,23400000.0,Portugal,Europe,Midfielder,7,409000000.0
+5,Raphaël Guerreiro,Left-Back,24,21060000.0,Portugal,Europe,Defender,7,427000000.0
+1,Rui Patrício,Keeper,30,18720000.0,Portugal,Europe,Keeper,7,443000000.0
+21,Cédric Soares,Right-Back,26,17550000.0,Portugal,Europe,Defender,7,458000000.0
+19,Mário Rui,Left-Back,27,16379999.999999998,Portugal,Europe,Defender,7,472000000.0
+8,João Moutinho,Central Midfield,31,11700000.0,Portugal,Europe,Midfielder,7,482000000.0
+4,Manuel Fernandes,Central Midfield,32,5850000.0,Portugal,Europe,Midfielder,7,487000000.0
+3,Pepe,Centre-Back,35,2340000.0,Portugal,Europe,Defender,7,489000000.0
+6,José Fonte,Centre-Back,34,2340000.0,Portugal,Europe,Defender,7,491000000.0
+20,Ricardo Quaresma,Right Wing,34,2340000.0,Portugal,Europe,Forward,7,493000000.0
+22,Beto,Keeper,36,702000.0,Portugal,Europe,Keeper,7,493600000.0
+2,Bruno Alves,Centre-Back,36,585000.0,Portugal,Europe,Defender,7,494100000.0
+9,Luis Suárez,Centre-Forward,31,81900000.0,Uruguay,South America,Forward,8,70000000.0
+21,Edinson Cavani,Centre-Forward,31,70200000.0,Uruguay,South America,Forward,8,130000000.0
+2,José Giménez,Centre-Back,23,52650000.0,Uruguay,South America,Defender,8,175000000.0
+3,Diego Godín,Centre-Back,32,40950000.0,Uruguay,South America,Defender,8,210000000.0
+14,Lucas Torreira,Defensive Midfield,22,35100000.0,Uruguay,South America,Midfielder,8,240000000.0
+18,Maximiliano Gómez,Centre-Forward,21,29250000.0,Uruguay,South America,Forward,8,265000000.0
+15,Matías Vecino,Central Midfield,26,24570000.0,Uruguay,South America,Midfielder,8,286000000.0
+6,Rodrigo Bentancur,Central Midfield,21,17550000.0,Uruguay,South America,Midfielder,8,301000000.0
+17,Diego Laxalt,Left Midfield,25,15210000.0,Uruguay,South America,Midfielder,8,314000000.0
+19,Sebastián Coates,Centre-Back,27,11700000.0,Uruguay,South America,Defender,8,324000000.0
+10,Giorgian de Arrascaeta,Attacking Midfield,24,10530000.0,Uruguay,South America,Midfielder,8,333000000.0
+11,Cristhian Stuani,Centre-Forward,31,8189999.999999999,Uruguay,South America,Forward,8,340000000.0
+1,Fernando Muslera,Keeper,32,7020000.0,Uruguay,South America,Keeper,8,346000000.0
+8,Nahitan Nández,Central Midfield,22,7020000.0,Uruguay,South America,Midfielder,8,352000000.0
+12,Martín Campaña,Keeper,29,5850000.0,Uruguay,South America,Keeper,8,357000000.0
+20,Jonathan Urretaviscaya,Right Wing,28,3510000.0,Uruguay,South America,Forward,8,360000000.0
+23,Martín Silva,Keeper,35,2340000.0,Uruguay,South America,Keeper,8,362000000.0
+13,Gastón Silva,Left-Back,24,2340000.0,Uruguay,South America,Defender,8,364000000.0
+22,Martín Cáceres,Right-Back,31,2340000.0,Uruguay,South America,Defender,8,366000000.0
+4,Guillermo Varela,Right-Back,25,2340000.0,Uruguay,South America,Defender,8,368000000.0
+16,Maxi Pereira,Right-Back,34,1170000.0,Uruguay,South America,Defender,8,369000000.0
+5,Carlos Sánchez,Right Midfield,33,1170000.0,Uruguay,South America,Midfielder,8,370000000.0
+7,Cristian Rodríguez,Left Midfield,32,585000.0,Uruguay,South America,Midfielder,8,370500000.0
+7,Ivan Rakitic,Central Midfield,30,58500000.0,Croatia,Europe,Midfielder,9,50000000.0
+4,Ivan Perisic .,Left Wing,29,46800000.0,Croatia,Europe,Forward,9,90000000.0
+8,Mateo Kovacic .,Central Midfield,24,35100000.0,Croatia,Europe,Midfielder,9,120000000.0
+11,Marcelo Brozovic,Central Midfield,25,31589999.999999996,Croatia,Europe,Midfielder,9,147000000.0
+9,Andrej Kramaric .,Centre-Forward,27,31589999.999999996,Croatia,Europe,Forward,9,174000000.0
+2,Sime Vrsaljko,Right-Back,26,29250000.0,Croatia,Europe,Defender,9,199000000.0
+10,Luka Modric,Central Midfield,32,29250000.0,Croatia,Europe,Midfielder,9,224000000.0
+6,Dejan Lovren,Centre-Back,29,23400000.0,Croatia,Europe,Defender,9,244000000.0
+17,Mario Mandzukic .,Left Wing,32,21060000.0,Croatia,Europe,Forward,9,262000000.0
+19,Milan Badelj,Defensive Midfield,29,17550000.0,Croatia,Europe,Midfielder,9,277000000.0
+20,Marko Pjaca,Left Wing,23,17550000.0,Croatia,Europe,Forward,9,292000000.0
+16,Nikola Kalinic,Centre-Forward,30,16379999.999999998,Croatia,Europe,Forward,9,306000000.0
+15,Duje Caleta-Car,Centre-Back,21,11700000.0,Croatia,Europe,Defender,9,316000000.0
+18,Ante Rebic,Left Wing,24,11700000.0,Croatia,Europe,Forward,9,326000000.0
+21,Domagoj Vida,Centre-Back,29,8189999.999999999,Croatia,Europe,Defender,9,333000000.0
+12,Lovre Kalinic,Keeper,28,7020000.0,Croatia,Europe,Keeper,9,339000000.0
+13,Tin Jedvaj,Centre-Back,22,5850000.0,Croatia,Europe,Defender,9,344000000.0
+23,Danijel Subasic,Keeper,33,4680000.0,Croatia,Europe,Keeper,9,348000000.0
+5,Vedran Corluka,Centre-Back,32,4680000.0,Croatia,Europe,Defender,9,352000000.0
+3,Ivan Strinic,Left-Back,30,4680000.0,Croatia,Europe,Defender,9,356000000.0
+14,Filip Bradaric,Defensive Midfield,26,3510000.0,Croatia,Europe,Midfielder,9,359000000.0
+22,Josip Pivaric,Left-Back,29,2340000.0,Croatia,Europe,Defender,9,361000000.0
+1,Dominik Livakovic,Keeper,23,1170000.0,Croatia,Europe,Keeper,9,362000000.0
+10,Sadio Mané,Left Wing,26,81900000.0,Senegal,Africa,Forward,10,70000000.0
+3,Kalidou Koulibaly,Centre-Back,27,70200000.0,Senegal,Africa,Defender,10,130000000.0
+20,Keita Baldé,Left Wing,23,35100000.0,Senegal,Africa,Forward,10,160000000.0
+5,Idrissa Gueye,Central Midfield,28,23400000.0,Senegal,Africa,Midfielder,10,180000000.0
+6,Salif Sané,Centre-Back,27,21060000.0,Senegal,Africa,Defender,10,198000000.0
+17,Badou Ndiaye,Central Midfield,27,17550000.0,Senegal,Africa,Midfielder,10,213000000.0
+18,Ismaïla Sarr,Left Wing,20,16379999.999999998,Senegal,Africa,Forward,10,227000000.0
+8,Cheikhou Kouyaté,Defensive Midfield,28,14040000.0,Senegal,Africa,Midfielder,10,239000000.0
+19,M'Baye Niang,Centre-Forward,23,11700000.0,Senegal,Africa,Forward,10,249000000.0
+4,Kara,Centre-Back,28,8189999.999999999,Senegal,Africa,Defender,10,256000000.0
+12,Youssouf Sabaly,Right-Back,25,8189999.999999999,Senegal,Africa,Defender,10,263000000.0
+9,Mame Diouf,Centre-Forward,30,8189999.999999999,Senegal,Africa,Forward,10,270000000.0
+14,Moussa Konaté,Centre-Forward,25,7020000.0,Senegal,Africa,Forward,10,276000000.0
+13,Alfred N'Diaye,Defensive Midfield,28,5850000.0,Senegal,Africa,Midfielder,10,281000000.0
+15,Diafra Sakho,Centre-Forward,28,5850000.0,Senegal,Africa,Forward,10,286000000.0
+23,Alfred Gomis,Keeper,24,3510000.0,Senegal,Africa,Keeper,10,289000000.0
+2,Adama Mbengue,Left-Back,24,3510000.0,Senegal,Africa,Defender,10,292000000.0
+11,Cheikh N'Doye,Central Midfield,32,2340000.0,Senegal,Africa,Midfielder,10,294000000.0
+1,Abdoulaye Diallo,Keeper,26,1170000.0,Senegal,Africa,Keeper,10,295000000.0
+21,Lamine Gassama,Right-Back,28,1170000.0,Senegal,Africa,Defender,10,296000000.0
+22,Moussa Wagué,Right-Back,19,1170000.0,Senegal,Africa,Defender,10,297000000.0
+7,Moussa Sow,Centre-Forward,32,1170000.0,Senegal,Africa,Forward,10,298000000.0
+16,Khadim N'Diaye,Keeper,33,292500.0,Senegal,Africa,Keeper,10,298250000.0
+20,Sergej Milinkovic-Savic,Central Midfield,23,105300000.0,Serbia,Europe,Midfielder,11,90000000.0
+21,Nemanja Matic,Defensive Midfield,29,46800000.0,Serbia,Europe,Midfielder,11,130000000.0
+7,Andrija Zivkovic,Attacking Midfield,21,21060000.0,Serbia,Europe,Midfielder,11,148000000.0
+4,Luka Milivojevic,Defensive Midfield,27,17550000.0,Serbia,Europe,Midfielder,11,163000000.0
+10,Dusan Tadic,Attacking Midfield,29,17550000.0,Serbia,Europe,Midfielder,11,178000000.0
+9,Aleksandar Mitrovic,Centre-Forward,23,17550000.0,Serbia,Europe,Forward,11,193000000.0
+22,Adem Ljajic,Attacking Midfield,26,15210000.0,Serbia,Europe,Midfielder,11,206000000.0
+11,Aleksandar Kolarov,Left-Back,32,14040000.0,Serbia,Europe,Defender,11,218000000.0
+15,Nikola Milenkovic,Centre-Back,20,10530000.0,Serbia,Europe,Defender,11,227000000.0
+19,Luka Jovic .,Centre-Forward,20,9360000.0,Serbia,Europe,Forward,11,235000000.0
+13,Milos Veljkovic,Centre-Back,22,7020000.0,Serbia,Europe,Defender,11,241000000.0
+17,Filip Kostic,Left Wing,25,7020000.0,Serbia,Europe,Forward,11,247000000.0
+18,Nemanja Radonjic,Left Wing,22,7020000.0,Serbia,Europe,Forward,11,253000000.0
+8,Aleksandar Prijovic,Centre-Forward,28,7020000.0,Serbia,Europe,Forward,11,259000000.0
+5,Uros Spajic,Centre-Back,25,5850000.0,Serbia,Europe,Defender,11,264000000.0
+16,Marko Grujic,Central Midfield,22,5850000.0,Serbia,Europe,Midfielder,11,269000000.0
+23,Marko Dmitrovic,Keeper,26,4680000.0,Serbia,Europe,Keeper,11,273000000.0
+6,Branislav Ivanovic,Centre-Back,34,3510000.0,Serbia,Europe,Defender,11,276000000.0
+12,Predrag Rajkovic,Keeper,22,2340000.0,Serbia,Europe,Keeper,11,278000000.0
+3,Dusko Tosic,Centre-Back,33,2340000.0,Serbia,Europe,Defender,11,280000000.0
+14,Milan Rodic,Left-Back,27,2340000.0,Serbia,Europe,Defender,11,282000000.0
+1,Vladimir Stojkovic,Keeper,34,877500.0,Serbia,Europe,Keeper,11,282750000.0
+9,Robert Lewandowski,Centre-Forward,29,105300000.0,Poland,Europe,Forward,12,90000000.0
+19,Piotr Zielinski,Central Midfield,24,37440000.0,Poland,Europe,Midfielder,12,122000000.0
+1,Wojciech Szczesny,Keeper,28,23400000.0,Poland,Europe,Keeper,12,142000000.0
+7,Arkadiusz Milik,Centre-Forward,24,23400000.0,Poland,Europe,Forward,12,162000000.0
+15,Kamil Glik,Centre-Back,30,21060000.0,Poland,Europe,Defender,12,180000000.0
+10,Grzegorz Krychowiak,Defensive Midfield,28,21060000.0,Poland,Europe,Midfielder,12,198000000.0
+8,Karol Linetty,Central Midfield,23,17550000.0,Poland,Europe,Midfielder,12,213000000.0
+18,Bartosz Bereszynski,Right-Back,25,14040000.0,Poland,Europe,Defender,12,225000000.0
+11,Kamil Grosicki,Right Wing,30,8189999.999999999,Poland,Europe,Forward,12,232000000.0
+14,Lukasz Teodorczyk,Centre-Forward,27,8189999.999999999,Poland,Europe,Forward,12,239000000.0
+23,Dawid Kownacki,Centre-Forward,21,8189999.999999999,Poland,Europe,Forward,12,246000000.0
+22,Lukasz Fabianski,Keeper,33,5850000.0,Poland,Europe,Keeper,12,251000000.0
+5,Jan Bednarek,Centre-Back,22,5850000.0,Poland,Europe,Defender,12,256000000.0
+20,Lukasz Piszczek,Right-Back,33,4680000.0,Poland,Europe,Defender,12,260000000.0
+13,Maciej Rybus,Left Midfield,28,3510000.0,Poland,Europe,Midfielder,12,263000000.0
+2,Michal Pazdan,Centre-Back,30,2340000.0,Poland,Europe,Defender,12,265000000.0
+6,Jacek Goralski,Defensive Midfield,25,2340000.0,Poland,Europe,Midfielder,12,267000000.0
+21,Rafal Kurzawa,Left Wing,25,2340000.0,Poland,Europe,Forward,12,269000000.0
+3,Artur Jedrzejczyk,Right-Back,30,1170000.0,Poland,Europe,Defender,12,270000000.0
+16,Jakub Blaszczykowski,Right Midfield,32,1170000.0,Poland,Europe,Midfielder,12,271000000.0
+4,Thiago Cionek,Centre-Back,32,936000.0,Poland,Europe,Defender,12,271800000.0
+12,Bartosz Bialkowski,Keeper,31,877500.0,Poland,Europe,Keeper,12,272550000.0
+17,Slawomir Peszko,Left Wing,33,351000.0,Poland,Europe,Forward,12,272850000.0
+10,Christian Eriksen,Attacking Midfield,26,93600000.0,Denmark,Europe,Midfielder,13,80000000.0
+6,Andreas Christensen,Centre-Back,22,46800000.0,Denmark,Europe,Defender,13,120000000.0
+23,Pione Sisto,Left Wing,23,17550000.0,Denmark,Europe,Forward,13,135000000.0
+3,Jannik Vestergaard,Centre-Back,25,16379999.999999998,Denmark,Europe,Defender,13,149000000.0
+9,Nicolai Jörgensen,Centre-Forward,27,16379999.999999998,Denmark,Europe,Forward,13,163000000.0
+8,Thomas Delaney,Central Midfield,26,14040000.0,Denmark,Europe,Midfielder,13,175000000.0
+12,Kasper Dolberg,Centre-Forward,20,14040000.0,Denmark,Europe,Forward,13,187000000.0
+1,Kasper Schmeichel,Keeper,31,11700000.0,Denmark,Europe,Keeper,13,197000000.0
+4,Simon Kjær,Centre-Back,29,11700000.0,Denmark,Europe,Defender,13,207000000.0
+20,Yussuf Poulsen,Centre-Forward,24,11700000.0,Denmark,Europe,Forward,13,217000000.0
+11,Martin Braithwaite,Centre-Forward,27,9360000.0,Denmark,Europe,Forward,13,225000000.0
+18,Lukas Lerager,Central Midfield,24,7020000.0,Denmark,Europe,Midfielder,13,231000000.0
+16,Jonas Lössl,Keeper,29,5850000.0,Denmark,Europe,Keeper,13,236000000.0
+13,Zanka,Centre-Back,28,5850000.0,Denmark,Europe,Defender,13,241000000.0
+22,Frederik Rönnow,Keeper,25,3510000.0,Denmark,Europe,Keeper,13,244000000.0
+19,Lasse Schöne,Defensive Midfield,32,3510000.0,Denmark,Europe,Midfielder,13,247000000.0
+15,Viktor Fischer,Left Wing,24,3510000.0,Denmark,Europe,Forward,13,250000000.0
+21,Andreas Cornelius,Centre-Forward,25,3510000.0,Denmark,Europe,Forward,13,253000000.0
+17,Jens Stryger Larsen,Right-Back,27,2340000.0,Denmark,Europe,Defender,13,255000000.0
+5,Jonas Knudsen,Left-Back,25,1170000.0,Denmark,Europe,Defender,13,256000000.0
+14,Henrik Dalsgaard,Right-Back,28,1170000.0,Denmark,Europe,Defender,13,257000000.0
+2,Michael Krohn-Dehli,Central Midfield,35,936000.0,Denmark,Europe,Midfielder,13,257800000.0
+7,William Kvist,Defensive Midfield,33,585000.0,Denmark,Europe,Midfielder,13,258300000.0
+10,James Rodríguez,Attacking Midfield,26,81900000.0,Colombia,South America,Midfielder,14,70000000.0
+23,Davinson Sánchez,Centre-Back,22,46800000.0,Colombia,South America,Defender,14,110000000.0
+11,Juan Cuadrado,Right Wing,30,32759999.999999996,Colombia,South America,Forward,14,138000000.0
+4,Santiago Arias,Right-Back,26,17550000.0,Colombia,South America,Defender,14,153000000.0
+21,José Izquierdo,Left Wing,26,16379999.999999998,Colombia,South America,Forward,14,167000000.0
+9,Falcao,Centre-Forward,32,14040000.0,Colombia,South America,Forward,14,179000000.0
+14,Luis Muriel,Centre-Forward,27,14040000.0,Colombia,South America,Forward,14,191000000.0
+7,Carlos Bacca .,Centre-Forward,31,11700000.0,Colombia,South America,Forward,14,201000000.0
+13,Yerry Mina,Centre-Back,23,10530000.0,Colombia,South America,Defender,14,210000000.0
+5,Wilmar Barrios,Defensive Midfield,24,9360000.0,Colombia,South America,Midfielder,14,218000000.0
+1,David Ospina,Keeper,29,5850000.0,Colombia,South America,Keeper,14,223000000.0
+19,Miguel Borja,Centre-Forward,25,5850000.0,Colombia,South America,Forward,14,228000000.0
+17,Johan Mojica,Left-Back,25,4680000.0,Colombia,South America,Defender,14,232000000.0
+15,Mateus Uribe .,Central Midfield,27,3510000.0,Colombia,South America,Midfielder,14,235000000.0
+20,Juan Quintero,Attacking Midfield,25,3510000.0,Colombia,South America,Midfielder,14,238000000.0
+2,Cristián Zapata,Centre-Back,31,2340000.0,Colombia,South America,Defender,14,240000000.0
+3,Óscar Murillo,Centre-Back,30,2340000.0,Colombia,South America,Defender,14,242000000.0
+6,Carlos Sánchez,Defensive Midfield,32,2340000.0,Colombia,South America,Midfielder,14,244000000.0
+16,Jefferson Lerma,Defensive Midfield,23,2340000.0,Colombia,South America,Midfielder,14,246000000.0
+12,Camilo Vargas,Keeper,29,1170000.0,Colombia,South America,Keeper,14,247000000.0
+8,Abel Aguilar,Defensive Midfield,33,1170000.0,Colombia,South America,Midfielder,14,248000000.0
+22,José Cuadrado,Keeper,33,936000.0,Colombia,South America,Keeper,14,248800000.0
+18,Farid Díaz,Left-Back,34,351000.0,Colombia,South America,Defender,14,249100000.0
+10,Granit Xhaka,Defensive Midfield,25,46800000.0,Switzerland,Europe,Midfielder,15,40000000.0
+5,Manuel Akanji,Centre-Back,22,25740000.0,Switzerland,Europe,Defender,15,62000000.0
+17,Denis Zakaria,Defensive Midfield,21,23400000.0,Switzerland,Europe,Midfielder,15,82000000.0
+23,Xherdan Shaqiri,Right Wing,26,21060000.0,Switzerland,Europe,Forward,15,100000000.0
+7,Breel Embolo,Centre-Forward,21,21060000.0,Switzerland,Europe,Forward,15,118000000.0
+4,Nico Elvedi,Centre-Back,21,19890000.0,Switzerland,Europe,Defender,15,135000000.0
+13,Ricardo Rodríguez,Left-Back,25,17550000.0,Switzerland,Europe,Defender,15,150000000.0
+8,Remo Freuler,Central Midfield,26,16379999.999999998,Switzerland,Europe,Midfielder,15,164000000.0
+1,Yann Sommer,Keeper,29,9360000.0,Switzerland,Europe,Keeper,15,172000000.0
+21,Roman Bürki,Keeper,27,8189999.999999999,Switzerland,Europe,Keeper,15,179000000.0
+14,Steven Zuber,Left Midfield,26,8189999.999999999,Switzerland,Europe,Midfielder,15,186000000.0
+6,Michael Lang,Right-Back,27,5850000.0,Switzerland,Europe,Defender,15,191000000.0
+9,Haris Seferovic,Centre-Forward,26,4680000.0,Switzerland,Europe,Forward,15,195000000.0
+12,Yvon Mvogo,Keeper,24,3510000.0,Switzerland,Europe,Keeper,15,198000000.0
+22,Fabian Schär,Centre-Back,26,3510000.0,Switzerland,Europe,Defender,15,201000000.0
+19,Josip Drmic,Centre-Forward,25,3510000.0,Switzerland,Europe,Forward,15,204000000.0
+18,Mario Gavranovic,Centre-Forward,28,3510000.0,Switzerland,Europe,Forward,15,207000000.0
+3,François Moubandje,Left-Back,28,2340000.0,Switzerland,Europe,Defender,15,209000000.0
+15,Blerim Dzemaili,Central Midfield,32,2340000.0,Switzerland,Europe,Midfielder,15,211000000.0
+2,Stephan Lichtsteiner,Right-Back,34,1170000.0,Switzerland,Europe,Defender,15,212000000.0
+16,Gelson Fernandes,Defensive Midfield,31,1170000.0,Switzerland,Europe,Midfielder,15,213000000.0
+11,Valon Behrami,Defensive Midfield,33,1170000.0,Switzerland,Europe,Midfielder,15,214000000.0
+20,Johan Djourou,Centre-Back,31,994499.9999999999,Switzerland,Europe,Defender,15,214850000.0
+10,Mohamed Salah,Right Wing,26,175500000.0,Egypt,Africa,Forward,16,150000000.0
+17,Mohamed Elneny,Defensive Midfield,25,11700000.0,Egypt,Africa,Midfielder,16,160000000.0
+14,Ramadan Sobhi,Left Wing,21,8189999.999999999,Egypt,Africa,Forward,16,167000000.0
+6,Ahmed Hegazy,Centre-Back,27,5850000.0,Egypt,Africa,Defender,16,172000000.0
+3,Ahmed Elmohamady,Right-Back,30,3510000.0,Egypt,Africa,Defender,16,175000000.0
+21,Trezeguet,Left Wing,23,3510000.0,Egypt,Africa,Forward,16,178000000.0
+22,Amr Warda,Left Wing,24,2340000.0,Egypt,Africa,Forward,16,180000000.0
+11,Kahraba,Left Wing,24,2340000.0,Egypt,Africa,Forward,16,182000000.0
+23,Mohamed El Shenawy,Keeper,29,1170000.0,Egypt,Africa,Keeper,16,183000000.0
+2,Ali Gabr,Centre-Back,29,1170000.0,Egypt,Africa,Defender,16,184000000.0
+20,Saad Samir,Centre-Back,29,1170000.0,Egypt,Africa,Defender,16,185000000.0
+13,Mohamed Abdel-Shafi,Left-Back,33,1170000.0,Egypt,Africa,Defender,16,186000000.0
+7,Ahmed Fathi,Right-Back,33,1170000.0,Egypt,Africa,Defender,16,187000000.0
+8,Tarek Hamed,Defensive Midfield,29,1170000.0,Egypt,Africa,Midfielder,16,188000000.0
+19,Abdallah Said,Attacking Midfield,32,1170000.0,Egypt,Africa,Midfielder,16,189000000.0
+16,Sherif Ekramy,Keeper,34,936000.0,Egypt,Africa,Keeper,16,189800000.0
+12,Ayman Ashraf,Centre-Back,27,936000.0,Egypt,Africa,Defender,16,190600000.0
+9,Marwan Mohsen,Centre-Forward,29,936000.0,Egypt,Africa,Forward,16,191400000.0
+5,Samy Morsy,Central Midfield,26,877500.0,Egypt,Africa,Midfielder,16,192150000.0
+18,Shikabala,Right Wing,32,848250.0,Egypt,Africa,Forward,16,192875000.0
+15,Mahmoud Hamdi,Centre-Back,23,702000.0,Egypt,Africa,Defender,16,193475000.0
+4,Omar Gaber,Right-Back,26,702000.0,Egypt,Africa,Defender,16,194075000.0
+1,Essam El Hadary,Keeper,45,585000.0,Egypt,Africa,Keeper,16,194575000.0
+17,Aleksandr Golovin,Central Midfield,22,21060000.0,Russia,Europe,Midfielder,17,18000000.0
+2,Mário Fernandes,Right-Back,27,18720000.0,Russia,Europe,Defender,17,34000000.0
+10,Fedor Smolov,Centre-Forward,28,18720000.0,Russia,Europe,Forward,17,50000000.0
+9,Alan Dzagoev,Central Midfield,28,17550000.0,Russia,Europe,Midfielder,17,65000000.0
+15,Aleksey Miranchuk,Attacking Midfield,22,16379999.999999998,Russia,Europe,Midfielder,17,79000000.0
+1,Igor Akinfeev,Keeper,32,11700000.0,Russia,Europe,Keeper,17,89000000.0
+12,Andrey Lunev,Keeper,26,9360000.0,Russia,Europe,Keeper,17,97000000.0
+11,Roman Zobnin,Central Midfield,24,9360000.0,Russia,Europe,Midfielder,17,105000000.0
+16,Anton Miranchuk,Central Midfield,22,9360000.0,Russia,Europe,Midfielder,17,113000000.0
+23,Igor Smolnikov,Right-Back,29,8189999.999999999,Russia,Europe,Defender,17,120000000.0
+7,Daler Kuzyaev,Central Midfield,25,8189999.999999999,Russia,Europe,Midfielder,17,127000000.0
+22,Artem Dzyuba,Centre-Forward,29,8189999.999999999,Russia,Europe,Forward,17,134000000.0
+4,Sergey Ignashevich,Centre-Back,38,7113600.0,Russia,Europe,Defender,17,140080000.0
+8,Yuri Gazinskiy,Central Midfield,28,5850000.0,Russia,Europe,Midfielder,17,145080000.0
+21,Aleksandr Erokhin,Attacking Midfield,28,5850000.0,Russia,Europe,Midfielder,17,150080000.0
+5,Andrey Semenov,Centre-Back,29,3510000.0,Russia,Europe,Defender,17,153080000.0
+3,Ilya Kutepov,Centre-Back,24,3510000.0,Russia,Europe,Defender,17,156080000.0
+13,Fedor Kudryashov,Left-Back,31,3510000.0,Russia,Europe,Defender,17,159080000.0
+6,Denis Cheryshev,Left Wing,27,3510000.0,Russia,Europe,Forward,17,162080000.0
+14,Vladimir Granat,Centre-Back,31,2340000.0,Russia,Europe,Defender,17,164080000.0
+19,Aleksandr Samedov,Right Wing,33,1170000.0,Russia,Europe,Forward,17,165080000.0
+18,Yuri Zhirkov,Left Midfield,34,936000.0,Russia,Europe,Midfielder,17,165880000.0
+20,Vladimir Gabulov,Keeper,34,819000.0,Russia,Europe,Keeper,17,166580000.0
+22,Hirving Lozano,Left Wing,22,29250000.0,Mexico,North America,Forward,18,25000000.0
+16,Héctor Herrera,Central Midfield,28,23400000.0,Mexico,North America,Midfielder,18,45000000.0
+9,Raúl Jiménez,Centre-Forward,27,17550000.0,Mexico,North America,Forward,18,60000000.0
+14,Chicharito,Centre-Forward,30,17550000.0,Mexico,North America,Forward,18,75000000.0
+17,Jesús Corona,Right Wing,25,14040000.0,Mexico,North America,Forward,18,87000000.0
+11,Carlos Vela,Right Wing,29,9360000.0,Mexico,North America,Forward,18,95000000.0
+3,Carlos Salcedo,Centre-Back,24,8189999.999999999,Mexico,North America,Defender,18,102000000.0
+7,Miguel Layún,Right-Back,30,5850000.0,Mexico,North America,Defender,18,107000000.0
+5,Érick Gutiérrez,Central Midfield,23,5850000.0,Mexico,North America,Midfielder,18,112000000.0
+18,Andrés Guardado,Central Midfield,31,5850000.0,Mexico,North America,Midfielder,18,117000000.0
+20,Javier Aquino,Left Wing,28,5850000.0,Mexico,North America,Forward,18,122000000.0
+15,Héctor Moreno,Centre-Back,30,4680000.0,Mexico,North America,Defender,18,126000000.0
+6,Jonathan dos Santos,Central Midfield,28,4680000.0,Mexico,North America,Midfielder,18,130000000.0
+8,Marco Fabián,Attacking Midfield,28,4680000.0,Mexico,North America,Midfielder,18,134000000.0
+13,Guillermo Ochoa,Keeper,32,3510000.0,Mexico,North America,Keeper,18,137000000.0
+23,Jesús Gallardo,Left Wing,23,3510000.0,Mexico,North America,Forward,18,140000000.0
+2,Hugo Ayala,Centre-Back,31,2340000.0,Mexico,North America,Defender,18,142000000.0
+21,Edson Álvarez .,Centre-Back,20,2340000.0,Mexico,North America,Defender,18,144000000.0
+10,Giovani dos Santos,Secondary Striker,29,2340000.0,Mexico,North America,Forward,18,146000000.0
+12,Alfredo Talavera,Keeper,35,1170000.0,Mexico,North America,Keeper,18,147000000.0
+1,Jesús Corona,Keeper,37,1170000.0,Mexico,North America,Keeper,18,148000000.0
+4,Wilfred Ndidi,Defensive Midfield,21,29250000.0,Nigeria,Africa,Midfielder,19,25000000.0
+11,Victor Moses,Right Midfield,27,23400000.0,Nigeria,Africa,Midfielder,19,45000000.0
+18,Alex Iwobi,Left Wing,22,17550000.0,Nigeria,Africa,Forward,19,60000000.0
+7,Ahmed Musa,Centre-Forward,25,17550000.0,Nigeria,Africa,Forward,19,75000000.0
+14,Kelechi Iheanacho,Centre-Forward,21,17550000.0,Nigeria,Africa,Forward,19,90000000.0
+9,Odion Ighalo,Centre-Forward,29,10530000.0,Nigeria,Africa,Forward,19,99000000.0
+20,Chidozie Awaziem,Centre-Back,21,7020000.0,Nigeria,Africa,Defender,19,105000000.0
+10,John Mikel Obi,Defensive Midfield,31,5850000.0,Nigeria,Africa,Midfielder,19,110000000.0
+15,Joel Obi,Central Midfield,27,5850000.0,Nigeria,Africa,Midfielder,19,115000000.0
+17,Ogenyi Onazi,Defensive Midfield,25,3510000.0,Nigeria,Africa,Midfielder,19,118000000.0
+6,Leon Balogun,Centre-Back,30,2340000.0,Nigeria,Africa,Defender,19,120000000.0
+22,Kenneth Omeruo,Centre-Back,24,1170000.0,Nigeria,Africa,Defender,19,121000000.0
+5,William Troost-Ekong,Centre-Back,24,1170000.0,Nigeria,Africa,Defender,19,122000000.0
+2,Bryan Idowu,Right-Back,26,1170000.0,Nigeria,Africa,Defender,19,123000000.0
+21,Tyronne Ebuehi,Right-Back,22,1170000.0,Nigeria,Africa,Defender,19,124000000.0
+8,Oghenekaro Etebo,Central Midfield,22,1170000.0,Nigeria,Africa,Midfielder,19,125000000.0
+19,John Ogu,Central Midfield,30,1170000.0,Nigeria,Africa,Midfielder,19,126000000.0
+13,Simy,Centre-Forward,26,1170000.0,Nigeria,Africa,Forward,19,127000000.0
+3,Elderson,Left-Back,30,819000.0,Nigeria,Africa,Defender,19,127700000.0
+12,Abdullahi Shehu,Defensive Midfield,25,819000.0,Nigeria,Africa,Midfielder,19,128400000.0
+16,Daniel Akpeyi,Keeper,31,760500.0,Nigeria,Africa,Keeper,19,129050000.0
+23,Francis Uzoho,Keeper,19,351000.0,Nigeria,Africa,Keeper,19,129350000.0
+1,Ikechukwu Ezenwa .,Keeper,29,175500.0,Nigeria,Africa,Keeper,19,129500000.0
+7,Hakim Ziyech,Attacking Midfield,25,29250000.0,Morocco,Africa,Midfielder,20,25000000.0
+18,Amine Harit .,Attacking Midfield,21,29250000.0,Morocco,Africa,Midfielder,20,50000000.0
+5,Medhi Benatia,Centre-Back,31,26910000.0,Morocco,Africa,Defender,20,73000000.0
+15,Youssef Aït Bennasser,Central Midfield,22,8189999.999999999,Morocco,Africa,Midfielder,20,80000000.0
+10,Younès Belhanda,Attacking Midfield,28,8189999.999999999,Morocco,Africa,Midfielder,20,87000000.0
+6,Romain Saïss,Defensive Midfield,28,7020000.0,Morocco,Africa,Midfielder,20,93000000.0
+2,Achraf Hakimi,Right-Back,19,5850000.0,Morocco,Africa,Defender,20,98000000.0
+21,Sofyan Amrabat,Central Midfield,21,4680000.0,Morocco,Africa,Midfielder,20,102000000.0
+1,Bono,Keeper,27,3510000.0,Morocco,Africa,Keeper,20,105000000.0
+8,Karim El Ahmadi,Central Midfield,33,3510000.0,Morocco,Africa,Midfielder,20,108000000.0
+16,Nordin Amrabat,Left Wing,31,3510000.0,Morocco,Africa,Forward,20,111000000.0
+23,Mehdi Carcela-González,Right Wing,29,3510000.0,Morocco,Africa,Forward,20,114000000.0
+17,Nabil Dirar,Right Midfield,32,2340000.0,Morocco,Africa,Midfielder,20,116000000.0
+11,Fayçal Fajr,Attacking Midfield,29,2340000.0,Morocco,Africa,Midfielder,20,118000000.0
+14,Moubarak Boussoufa,Attacking Midfield,33,1170000.0,Morocco,Africa,Midfielder,20,119000000.0
+19,Youssef En-Nesyri,Centre-Forward,21,1170000.0,Morocco,Africa,Forward,20,120000000.0
+9,Ayoub El Kaabi,Centre-Forward,25,1170000.0,Morocco,Africa,Forward,20,121000000.0
+13,Khalid Boutaïb,Centre-Forward,31,1170000.0,Morocco,Africa,Forward,20,122000000.0
+22,Ahmed Reda Tagnaouti,Keeper,22,994499.9999999999,Morocco,Africa,Keeper,20,122850000.0
+20,Aziz Bouhaddouz,Centre-Forward,31,936000.0,Morocco,Africa,Forward,20,123650000.0
+4,Manuel da Costa,Centre-Back,32,819000.0,Morocco,Africa,Defender,20,124350000.0
+3,Hamza Mendyl .,Left-Back,20,702000.0,Morocco,Africa,Defender,20,124950000.0
+12,Munir,Keeper,29,468000.0,Morocco,Africa,Keeper,20,125350000.0
+3,Victor Lindelöf,Centre-Back,23,29250000.0,Sweden,Europe,Defender,21,25000000.0
+10,Emil Forsberg,Left Wing,26,29250000.0,Sweden,Europe,Forward,21,50000000.0
+17,Viktor Claesson,Attacking Midfield,26,9360000.0,Sweden,Europe,Midfielder,21,58000000.0
+6,Ludwig Augustinsson,Left-Back,24,8189999.999999999,Sweden,Europe,Defender,21,65000000.0
+18,Pontus Jansson,Centre-Back,27,7020000.0,Sweden,Europe,Defender,21,71000000.0
+5,Martin Olsson,Left-Back,30,5850000.0,Sweden,Europe,Defender,21,76000000.0
+9,Marcus Berg,Centre-Forward,31,5850000.0,Sweden,Europe,Forward,21,81000000.0
+11,John Guidetti,Centre-Forward,26,5850000.0,Sweden,Europe,Forward,21,86000000.0
+4,Andreas Granqvist,Centre-Back,33,4680000.0,Sweden,Europe,Defender,21,90000000.0
+2,Mikael Lustig,Right-Back,31,3510000.0,Sweden,Europe,Defender,21,93000000.0
+15,Oscar Hiljemark,Central Midfield,26,3510000.0,Sweden,Europe,Midfielder,21,96000000.0
+12,Karl-Johan Johnsson,Keeper,28,2340000.0,Sweden,Europe,Keeper,21,98000000.0
+14,Filip Helander,Centre-Back,25,2340000.0,Sweden,Europe,Defender,21,100000000.0
+8,Albin Ekdal,Central Midfield,28,2340000.0,Sweden,Europe,Midfielder,21,102000000.0
+7,Sebastian Larsson,Central Midfield,33,2340000.0,Sweden,Europe,Midfielder,21,104000000.0
+21,Jimmy Durmaz,Left Wing,29,2340000.0,Sweden,Europe,Forward,21,106000000.0
+22,Isaac Thelin,Centre-Forward,26,2340000.0,Sweden,Europe,Forward,21,108000000.0
+23,Kristoffer Nordfeldt,Keeper,29,1170000.0,Sweden,Europe,Keeper,21,109000000.0
+1,Robin Olsen,Keeper,28,1170000.0,Sweden,Europe,Keeper,21,110000000.0
+16,Emil Krafth,Right-Back,23,1170000.0,Sweden,Europe,Defender,21,111000000.0
+19,Marcus Rohdén,Right Midfield,27,1170000.0,Sweden,Europe,Midfielder,21,112000000.0
+20,Ola Toivonen,Centre-Forward,32,1170000.0,Sweden,Europe,Forward,21,113000000.0
+13,Gustav Svensson,Defensive Midfield,31,877500.0,Sweden,Europe,Midfielder,21,113750000.0
+7,Heung-min Son,Left Wing,26,58500000.0,South Korea,Asia,Forward,22,50000000.0
+11,Hee-chan Hwang,Centre-Forward,22,11700000.0,South Korea,Asia,Forward,22,60000000.0
+16,Sung-yong Ki,Defensive Midfield,29,8189999.999999999,South Korea,Asia,Midfielder,22,67000000.0
+13,Ja-cheol Koo,Attacking Midfield,29,3510000.0,South Korea,Asia,Midfielder,22,70000000.0
+17,Jae-song Lee,Attacking Midfield,25,2340000.0,South Korea,Asia,Midfielder,22,72000000.0
+1,Seung-Gyu Kim,Keeper,27,1170000.0,South Korea,Asia,Keeper,22,73000000.0
+21,Jin-hyeon Kim,Keeper,31,1170000.0,South Korea,Asia,Keeper,22,74000000.0
+12,Min-uh Kim,Left Midfield,28,1170000.0,South Korea,Asia,Midfielder,22,75000000.0
+10,Seung-Woo Lee,Left Wing,20,1170000.0,South Korea,Asia,Forward,22,76000000.0
+9,Shin-uk Kim,Centre-Forward,30,1170000.0,South Korea,Asia,Forward,22,77000000.0
+4,Ban-seok Oh,Centre-Back,30,994499.9999999999,South Korea,Asia,Defender,22,77850000.0
+19,Young-gwon Kim,Centre-Back,28,994499.9999999999,South Korea,Asia,Defender,22,78700000.0
+22,Yo-han Ko .,Central Midfield,30,965249.9999999999,South Korea,Asia,Midfielder,22,79525000.0
+15,Woo-young Jung,Defensive Midfield,28,936000.0,South Korea,Asia,Midfielder,22,80325000.0
+6,Ju-ho Park,Left-Back,31,877500.0,South Korea,Asia,Defender,22,81075000.0
+14,Cheol Hong,Left-Back,27,877500.0,South Korea,Asia,Defender,22,81825000.0
+8,Se-jong Ju,Defensive Midfield,27,877500.0,South Korea,Asia,Midfielder,22,82575000.0
+20,Hyun-soo Jang,Centre-Back,26,760500.0,South Korea,Asia,Defender,22,83225000.0
+23,Hyeon-uh Jo,Keeper,26,585000.0,South Korea,Asia,Keeper,22,83725000.0
+2,Yong Lee,Right-Back,31,585000.0,South Korea,Asia,Defender,22,84225000.0
+3,Seung-hyeon Jung,Centre-Back,24,526500.0,South Korea,Asia,Defender,22,84675000.0
+18,Seon-min Mun,Left Wing,26,526500.0,South Korea,Asia,Forward,22,85125000.0
+5,Young-seon Yun,Centre-Back,29,468000.0,South Korea,Asia,Defender,22,85525000.0
+10,Gylfi Sigurdsson,Attacking Midfield,28,35100000.0,Iceland,Europe,Midfielder,23,30000000.0
+7,Johann Berg Gudmundsson,Right Wing,27,11700000.0,Iceland,Europe,Forward,23,40000000.0
+11,Alfred Finnbogason,Centre-Forward,29,11700000.0,Iceland,Europe,Forward,23,50000000.0
+6,Ragnar Sigurdsson,Centre-Back,32,4680000.0,Iceland,Europe,Defender,23,54000000.0
+5,Sverrir Ingi Ingason,Centre-Back,24,3510000.0,Iceland,Europe,Defender,23,57000000.0
+18,Hördur Magnússon,Centre-Back,25,2340000.0,Iceland,Europe,Defender,23,59000000.0
+15,Hólmar Örn Eyjólfsson,Centre-Back,27,2340000.0,Iceland,Europe,Defender,23,61000000.0
+17,Aron Gunnarsson,Central Midfield,29,2340000.0,Iceland,Europe,Midfielder,23,63000000.0
+8,Birkir Bjarnason,Central Midfield,30,2340000.0,Iceland,Europe,Midfielder,23,65000000.0
+22,Jón Dadi Bödvarsson,Centre-Forward,26,2340000.0,Iceland,Europe,Forward,23,67000000.0
+21,Arnór Ingvi Traustason,Left Midfield,25,1170000.0,Iceland,Europe,Midfielder,23,68000000.0
+4,Albert Gudmundsson,Right Wing,21,1170000.0,Iceland,Europe,Forward,23,69000000.0
+9,Björn Sigurdarson,Centre-Forward,27,1170000.0,Iceland,Europe,Forward,23,70000000.0
+23,Ari Freyr Skúlason,Left-Back,31,1053000.0,Iceland,Europe,Defender,23,70900000.0
+19,Rúrik Gíslason,Right Wing,30,760500.0,Iceland,Europe,Forward,23,71550000.0
+20,Emil Hallfredsson,Central Midfield,34,702000.0,Iceland,Europe,Midfielder,23,72150000.0
+13,Rúnar Alex Rúnarsson,Keeper,23,585000.0,Iceland,Europe,Keeper,23,72650000.0
+2,Birkir Már Saevarsson,Right-Back,33,468000.0,Iceland,Europe,Defender,23,73050000.0
+1,Hannes Thór Halldórsson,Keeper,34,409500.0,Iceland,Europe,Keeper,23,73400000.0
+12,Frederik Schram,Keeper,23,292500.0,Iceland,Europe,Keeper,23,73650000.0
+3,Samúel Fridjónsson,Defensive Midfield,22,234000.0,Iceland,Europe,Midfielder,23,73850000.0
+10,Shinji Kagawa,Attacking Midfield,29,15210000.0,Japan,Asia,Midfielder,24,13000000.0
+22,Maya Yoshida,Centre-Back,29,8189999.999999999,Japan,Asia,Defender,24,20000000.0
+19,Hiroki Sakai,Right-Back,28,7020000.0,Japan,Asia,Defender,24,26000000.0
+9,Shinji Okazaki,Centre-Forward,32,7020000.0,Japan,Asia,Forward,24,32000000.0
+13,Yoshinori Muto,Centre-Forward,25,7020000.0,Japan,Asia,Forward,24,38000000.0
+14,Takashi Inui,Left Wing,30,5850000.0,Japan,Asia,Forward,24,43000000.0
+4,Keisuke Honda,Right Wing,32,4680000.0,Japan,Asia,Forward,24,47000000.0
+15,Yuya Osako .,Secondary Striker,28,4680000.0,Japan,Asia,Forward,24,51000000.0
+5,Yuto Nagatomo,Left-Back,31,3510000.0,Japan,Asia,Defender,24,54000000.0
+8,Genki Haraguchi,Left Wing,27,3510000.0,Japan,Asia,Forward,24,57000000.0
+23,Kosuke Nakamura,Keeper,23,1170000.0,Japan,Asia,Keeper,24,58000000.0
+12,Masaaki Higashiguchi,Keeper,32,1170000.0,Japan,Asia,Keeper,24,59000000.0
+3,Gen Shoji,Centre-Back,25,1170000.0,Japan,Asia,Defender,24,60000000.0
+20,Tomoaki Makino,Centre-Back,31,1170000.0,Japan,Asia,Defender,24,61000000.0
+6,Wataru Endo,Centre-Back,25,1170000.0,Japan,Asia,Defender,24,62000000.0
+2,Naomichi Ueda,Centre-Back,23,1170000.0,Japan,Asia,Defender,24,63000000.0
+16,Hotaru Yamaguchi,Defensive Midfield,27,1170000.0,Japan,Asia,Midfielder,24,64000000.0
+17,Makoto Hasebe,Defensive Midfield,34,1170000.0,Japan,Asia,Midfielder,24,65000000.0
+7,Gaku Shibasaki,Central Midfield,26,1170000.0,Japan,Asia,Midfielder,24,66000000.0
+18,Ryota Oshima,Central Midfield,25,1170000.0,Japan,Asia,Midfielder,24,67000000.0
+11,Takashi Usami,Left Wing,26,1170000.0,Japan,Asia,Forward,24,68000000.0
+1,Eiji Kawashima,Keeper,35,292500.0,Japan,Asia,Keeper,24,68250000.0
+17,Ellyes Skhiri,Defensive Midfield,23,11700000.0,Tunisia,Africa,Midfielder,25,10000000.0
+10,Wahbi Khazri,Attacking Midfield,27,11700000.0,Tunisia,Africa,Midfielder,25,20000000.0
+23,Naïm Sliti,Left Wing,25,8189999.999999999,Tunisia,Africa,Forward,25,27000000.0
+7,Saîf-Eddine Khaoui,Attacking Midfield,23,5850000.0,Tunisia,Africa,Midfielder,25,32000000.0
+11,Dylan Bronn,Centre-Back,23,3510000.0,Tunisia,Africa,Defender,25,35000000.0
+5,Oussama Haddadi,Left-Back,26,3510000.0,Tunisia,Africa,Defender,25,38000000.0
+18,Bassem Srarfi,Right Wing,21,3510000.0,Tunisia,Africa,Forward,25,41000000.0
+22,Mouez Hassen,Keeper,23,1170000.0,Tunisia,Africa,Keeper,25,42000000.0
+4,Yassine Meriah,Centre-Back,25,1170000.0,Tunisia,Africa,Defender,25,43000000.0
+3,Yohan Benalouane,Centre-Back,31,1170000.0,Tunisia,Africa,Defender,25,44000000.0
+12,Ali Maâloul,Left-Back,28,1170000.0,Tunisia,Africa,Defender,25,45000000.0
+21,Hamdi Nagguez,Right-Back,25,1170000.0,Tunisia,Africa,Defender,25,46000000.0
+14,Mohamed Amine Ben Amor,Defensive Midfield,26,1170000.0,Tunisia,Africa,Midfielder,25,47000000.0
+13,Ferjani Sassi,Central Midfield,26,1170000.0,Tunisia,Africa,Midfielder,25,48000000.0
+9,Anice Badri,Right Wing,27,1170000.0,Tunisia,Africa,Forward,25,49000000.0
+8,Fakhreddine Ben Youssef,Right Wing,27,1170000.0,Tunisia,Africa,Forward,25,50000000.0
+19,Saber Khalifa,Centre-Forward,31,1170000.0,Tunisia,Africa,Forward,25,51000000.0
+20,Ghaylen Chaaleli,Central Midfield,24,1053000.0,Tunisia,Africa,Midfielder,25,51900000.0
+2,Syam Ben Youssef,Centre-Back,29,936000.0,Tunisia,Africa,Defender,25,52700000.0
+6,Rami Bedoui,Centre-Back,28,936000.0,Tunisia,Africa,Defender,25,53500000.0
+15,Ahmed Khalil,Defensive Midfield,23,936000.0,Tunisia,Africa,Midfielder,25,54300000.0
+1,Farouk Ben Mustapha,Keeper,29,906750.0,Tunisia,Africa,Keeper,25,55075000.0
+16,Balbouli,Keeper,33,819000.0,Tunisia,Africa,Keeper,25,55775000.0
+13,Aaron Mooy,Central Midfield,27,11700000.0,Australia,Oceania,Midfielder,26,10000000.0
+1,Mathew Ryan,Keeper,26,9360000.0,Australia,Oceania,Keeper,26,18000000.0
+8,Massimo Luongo,Central Midfield,25,4680000.0,Australia,Oceania,Midfielder,26,22000000.0
+7,Mathew Leckie,Right Wing,27,4680000.0,Australia,Oceania,Forward,26,26000000.0
+16,Aziz Behich,Left-Back,27,2340000.0,Australia,Oceania,Defender,26,28000000.0
+15,Mile Jedinak,Defensive Midfield,33,2340000.0,Australia,Oceania,Midfielder,26,30000000.0
+22,Jackson Irvine,Defensive Midfield,25,2340000.0,Australia,Oceania,Midfielder,26,32000000.0
+23,Tom Rogic,Attacking Midfield,25,2340000.0,Australia,Oceania,Midfielder,26,34000000.0
+9,Tomi Juric,Centre-Forward,26,2340000.0,Australia,Oceania,Forward,26,36000000.0
+12,Brad Jones,Keeper,36,1170000.0,Australia,Oceania,Keeper,26,37000000.0
+18,Danny Vukovic,Keeper,33,1170000.0,Australia,Oceania,Keeper,26,38000000.0
+6,Matthew Jurman,Centre-Back,28,1170000.0,Australia,Oceania,Defender,26,39000000.0
+20,Trent Sainsbury,Centre-Back,26,1170000.0,Australia,Oceania,Defender,26,40000000.0
+14,Jamie Maclaren,Centre-Forward,24,1170000.0,Australia,Oceania,Forward,26,41000000.0
+10,Robbie Kruse,Left Wing,29,1053000.0,Australia,Oceania,Forward,26,41900000.0
+5,Mark Milligan .,Defensive Midfield,32,994499.9999999999,Australia,Oceania,Midfielder,26,42750000.0
+2,Milos Degenek,Centre-Back,24,936000.0,Australia,Oceania,Defender,26,43550000.0
+21,Dimitri Petratos,Attacking Midfield,25,936000.0,Australia,Oceania,Midfielder,26,44350000.0
+3,James Meredith,Left-Back,30,877500.0,Australia,Oceania,Defender,26,45100000.0
+19,Joshua Risdon,Right-Back,25,877500.0,Australia,Oceania,Defender,26,45850000.0
+11,Andrew Nabbout,Centre-Forward,25,643500.0,Australia,Oceania,Forward,26,46400000.0
+4,Tim Cahill,Attacking Midfield,38,585000.0,Australia,Oceania,Midfielder,26,46900000.0
+17,Daniel Arzani .,Right Wing,19,585000.0,Australia,Oceania,Forward,26,47400000.0
+18,Alireza Jahanbakhsh,Right Wing,24,14040000.0,Iran,Asia,Forward,27,12000000.0
+20,Sardar Azmoun,Centre-Forward,23,10530000.0,Iran,Asia,Forward,27,21000000.0
+10,Karim Ansarifard,Centre-Forward,28,4680000.0,Iran,Asia,Forward,27,25000000.0
+5,Milad Mohammadi .,Left-Back,24,2340000.0,Iran,Asia,Defender,27,27000000.0
+1,Alireza Beiranvand,Keeper,25,1170000.0,Iran,Asia,Keeper,27,28000000.0
+22,Amir Abedzadeh,Keeper,25,1170000.0,Iran,Asia,Keeper,27,29000000.0
+3,Ehsan Hajsafi .,Left-Back,28,1170000.0,Iran,Asia,Defender,27,30000000.0
+23,Ramin Rezaeian .,Right-Back,28,1170000.0,Iran,Asia,Defender,27,31000000.0
+9,Omid Ebrahimi,Defensive Midfield,30,1170000.0,Iran,Asia,Midfielder,27,32000000.0
+6,Saeid Ezatolahi,Central Midfield,21,1170000.0,Iran,Asia,Midfielder,27,33000000.0
+11,Vahid Amiri .,Left Wing,30,1170000.0,Iran,Asia,Forward,27,34000000.0
+2,Mehdi Torabi,Left Wing,23,1170000.0,Iran,Asia,Forward,27,35000000.0
+14,Saman Ghoddos,Centre-Forward,24,1170000.0,Iran,Asia,Forward,27,36000000.0
+17,Mehdi Taremi .,Centre-Forward,25,1170000.0,Iran,Asia,Forward,27,37000000.0
+8,Morteza Pouraliganji .,Centre-Back,26,1111500.0,Iran,Asia,Defender,27,37950000.0
+12,Mohammad Rashid Mazaheri,Keeper,29,1053000.0,Iran,Asia,Keeper,27,38850000.0
+19,Majid Hosseini,Centre-Back,22,1053000.0,Iran,Asia,Defender,27,39750000.0
+4,Roozbeh Cheshmi .,Defensive Midfield,25,1053000.0,Iran,Asia,Midfielder,27,40650000.0
+21,Ashkan Dejagah .,Right Wing,32,936000.0,Iran,Asia,Forward,27,41450000.0
+13,Mohammad Reza Khanzadeh,Centre-Back,26,819000.0,Iran,Asia,Defender,27,42150000.0
+7,Masoud Shojaei .,Attacking Midfield,34,819000.0,Iran,Asia,Midfielder,27,42850000.0
+15,Pejman Montazeri,Centre-Back,34,468000.0,Iran,Asia,Defender,27,43250000.0
+1,Keylor Navas,Keeper,31,21060000.0,Costa Rica,North America,Keeper,28,18000000.0
+5,Celso Borges,Central Midfield,30,4680000.0,Costa Rica,North America,Midfielder,28,22000000.0
+12,Joel Campbell,Right Wing,26,3510000.0,Costa Rica,North America,Forward,28,25000000.0
+8,Bryan Oviedo,Left-Back,28,2340000.0,Costa Rica,North America,Defender,28,27000000.0
+3,Giancarlo González,Centre-Back,30,1170000.0,Costa Rica,North America,Defender,28,28000000.0
+6,Óscar Duarte,Centre-Back,29,1170000.0,Costa Rica,North America,Defender,28,29000000.0
+16,Cristian Gamboa,Right-Back,28,1170000.0,Costa Rica,North America,Defender,28,30000000.0
+10,Bryan Ruíz,Left Midfield,32,1170000.0,Costa Rica,North America,Midfielder,28,31000000.0
+13,Rodney Wallace,Left Midfield,30,1170000.0,Costa Rica,North America,Midfielder,28,32000000.0
+21,Marcos Ureña,Secondary Striker,28,1053000.0,Costa Rica,North America,Forward,28,32900000.0
+19,Kendall Waston,Centre-Back,30,994499.9999999999,Costa Rica,North America,Defender,28,33750000.0
+20,David Guzmán,Defensive Midfield,28,936000.0,Costa Rica,North America,Midfielder,28,34550000.0
+15,Francisco Calvo,Centre-Back,26,877500.0,Costa Rica,North America,Defender,28,35300000.0
+17,Yeltsin Tejeda,Defensive Midfield,26,877500.0,Costa Rica,North America,Midfielder,28,36050000.0
+11,Johan Venegas,Right Midfield,29,702000.0,Costa Rica,North America,Midfielder,28,36650000.0
+7,Christian Bolaños,Right Wing,34,438750.0,Costa Rica,North America,Forward,28,37025000.0
+23,Leonel Moreira,Keeper,28,409500.0,Costa Rica,North America,Keeper,28,37375000.0
+9,Daniel Colindres,Left Wing,33,380250.0,Costa Rica,North America,Forward,28,37700000.0
+14,Randall Azofeifa,Defensive Midfield,33,351000.0,Costa Rica,North America,Midfielder,28,38000000.0
+18,Patrick Pemberton,Keeper,36,321750.0,Costa Rica,North America,Keeper,28,38275000.0
+22,Kenner Gutiérrez,Centre-Back,29,321750.0,Costa Rica,North America,Defender,28,38550000.0
+2,Jhonny Acosta,Centre-Back,34,234000.0,Costa Rica,North America,Defender,28,38750000.0
+22,Ian Smith,Right-Back,20,117000.0,Costa Rica,North America,Defender,28,38850000.0
+18,André Carrillo,Right Wing,27,7020000.0,Peru,South America,Forward,29,6000000.0
+11,Raúl Ruidíaz,Centre-Forward,27,5850000.0,Peru,South America,Forward,29,11000000.0
+13,Renato Tapia,Central Midfield,22,4680000.0,Peru,South America,Midfielder,29,15000000.0
+7,Paolo Hurtado,Attacking Midfield,27,4680000.0,Peru,South America,Midfielder,29,19000000.0
+8,Christian Cueva,Attacking Midfield,26,3510000.0,Peru,South America,Midfielder,29,22000000.0
+9,Paolo Guerrero,Centre-Forward,34,3510000.0,Peru,South America,Forward,29,25000000.0
+10,Jefferson Farfán,Right Wing,33,2340000.0,Peru,South America,Forward,29,27000000.0
+1,Pedro Gallese,Keeper,28,1170000.0,Peru,South America,Keeper,29,28000000.0
+6,Miguel Trauco,Left-Back,26,1170000.0,Peru,South America,Defender,29,29000000.0
+17,Luis Advíncula,Right-Back,28,1170000.0,Peru,South America,Defender,29,30000000.0
+23,Pedro Aquino,Defensive Midfield,23,1170000.0,Peru,South America,Midfielder,29,31000000.0
+19,Yoshimar Yotún,Central Midfield,28,1053000.0,Peru,South America,Midfielder,29,31900000.0
+14,Andy Polo,Right Wing,23,1053000.0,Peru,South America,Forward,29,32800000.0
+15,Christian Ramos,Centre-Back,29,936000.0,Peru,South America,Defender,29,33600000.0
+12,Carlos Cáceda,Keeper,26,585000.0,Peru,South America,Keeper,29,34100000.0
+4,Anderson Santamaría,Centre-Back,26,585000.0,Peru,South America,Defender,29,34600000.0
+5,Miguel Araujo,Centre-Back,23,585000.0,Peru,South America,Defender,29,35100000.0
+3,Aldo Corzo,Right-Back,29,585000.0,Peru,South America,Defender,29,35600000.0
+22,Nilson Loyola,Left-Back,23,497249.99999999994,Peru,South America,Defender,29,36025000.0
+16,Wilder Cartagena,Defensive Midfield,23,468000.0,Peru,South America,Midfielder,29,36425000.0
+20,Édison Flores,Left Wing,24,468000.0,Peru,South America,Forward,29,36825000.0
+2,Alberto Rodríguez,Centre-Back,34,292500.0,Peru,South America,Defender,29,37075000.0
+21,José Carvallo,Keeper,32,234000.0,Peru,South America,Keeper,29,37275000.0
+23,Motaz Hawsawi,Centre-Back,26,1170000.0,Saudi Arabia,Asia,Defender,30,1000000.0
+13,Yasir Al-Shahrani,Left-Back,26,1170000.0,Saudi Arabia,Asia,Defender,30,2000000.0
+6,Mohammed Al-Burayk,Right-Back,25,1170000.0,Saudi Arabia,Asia,Defender,30,3000000.0
+7,Salman Al-Faraj,Central Midfield,28,1170000.0,Saudi Arabia,Asia,Midfielder,30,4000000.0
+16,Hussain Al-Moqahwi,Central Midfield,30,1170000.0,Saudi Arabia,Asia,Midfielder,30,5000000.0
+19,Fahad Al-Muwallad,Right Wing,23,1170000.0,Saudi Arabia,Asia,Forward,30,6000000.0
+14,Abdullah Ateef,Defensive Midfield,25,1140750.0,Saudi Arabia,Asia,Midfielder,30,6975000.0
+22,Mohammed Al-Owais,Keeper,26,1111500.0,Saudi Arabia,Asia,Keeper,30,7925000.0
+20,Muhannad Asiri,Centre-Forward,31,1111500.0,Saudi Arabia,Asia,Forward,30,8875000.0
+21,Yasser Al-Mosailem,Keeper,34,1053000.0,Saudi Arabia,Asia,Keeper,30,9775000.0
+9,Hatan Bahbir,Attacking Midfield,25,1053000.0,Saudi Arabia,Asia,Midfielder,30,10675000.0
+8,Yahia Al-Shehri,Right Wing,28,936000.0,Saudi Arabia,Asia,Forward,30,11475000.0
+18,Salem Al-Dawsari,Right Wing,26,936000.0,Saudi Arabia,Asia,Forward,30,12275000.0
+5,Omar Hawsawi,Centre-Back,32,877500.0,Saudi Arabia,Asia,Defender,30,13025000.0
+17,Taiseer Al-Jassam,Central Midfield,33,877500.0,Saudi Arabia,Asia,Midfielder,30,13775000.0
+3,Osama Hawsawi,Centre-Back,34,789750.0,Saudi Arabia,Asia,Defender,30,14450000.0
+12,Mohamed Kanno,Central Midfield,23,760500.0,Saudi Arabia,Asia,Midfielder,30,15100000.0
+10,Mohammed Al-Sahlawi,Centre-Forward,31,760500.0,Saudi Arabia,Asia,Forward,30,15750000.0
+1,Abdullah Al-Muaiouf,Keeper,31,702000.0,Saudi Arabia,Asia,Keeper,30,16350000.0
+2,Mansour Al-Harbi,Left-Back,30,702000.0,Saudi Arabia,Asia,Defender,30,16950000.0
+4,Ali Al-Boleahi,Centre-Back,28,409500.0,Saudi Arabia,Asia,Defender,30,17300000.0
+11,Abdulmalek Al-Khaibri,Defensive Midfield,32,292500.0,Saudi Arabia,Asia,Midfielder,30,17550000.0
+15,Abdullah Al-Khaibari,Defensive Midfield,21,204750.0,Saudi Arabia,Asia,Midfielder,30,17725000.0
+20,Aníbal Godoy,Defensive Midfield,28,936000.0,Panama,North America,Midfielder,31,800000.0
+17,Luis Ovalle,Left-Back,29,643500.0,Panama,North America,Defender,31,1350000.0
+2,Michael Murillo,Right-Back,22,585000.0,Panama,North America,Defender,31,1850000.0
+8,Yoel Bárcenas,Left Midfield,24,585000.0,Panama,North America,Midfielder,31,2350000.0
+9,Gabriel Torres,Centre-Forward,29,585000.0,Panama,North America,Forward,31,2850000.0
+11,Armando Cooper,Central Midfield,30,526500.0,Panama,North America,Midfielder,31,3300000.0
+15,Eric Davis,Left-Back,27,497249.99999999994,Panama,North America,Defender,31,3725000.0
+13,Adolfo Machado,Centre-Back,33,468000.0,Panama,North America,Defender,31,4125000.0
+14,Valentin Pimentel,Right Wing,27,409500.0,Panama,North America,Forward,31,4475000.0
+10,Ismael Díaz,Left Wing,21,351000.0,Panama,North America,Forward,31,4775000.0
+3,Hárold Cummings,Centre-Back,26,292500.0,Panama,North America,Defender,31,5025000.0
+19,Ricardo Ávila,Defensive Midfield,21,292500.0,Panama,North America,Midfielder,31,5275000.0
+16,Abdiel Arroyo,Centre-Forward,24,292500.0,Panama,North America,Forward,31,5525000.0
+12,José Calderón .,Keeper,32,234000.0,Panama,North America,Keeper,31,5725000.0
+21,José Luis Rodríguez,Left Midfield,20,234000.0,Panama,North America,Midfielder,31,5925000.0
+22,Álex Rodríguez,Keeper,27,204750.0,Panama,North America,Keeper,31,6100000.0
+4,Fidel Escobar,Centre-Back,23,204750.0,Panama,North America,Defender,31,6275000.0
